@@ -1,0 +1,26 @@
+_repo: Landas-na-Tuntunin_14215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morante, José
+    alias: Morante, Jose
+    gutenberg_agent_id: '5411'
+    url: http://www.gutenberg.org/2009/agents/5411
+description: ''
+gutenberg_issued: '2004-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14215'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog poetry'
+- !lcsh 'Philippine literature'
+- !lcc 'PL'
+title: Landas na Tuntunin
+url: http://www.gutenberg.org/ebooks/14215
